@@ -1,0 +1,3 @@
+b asmfunc
+display $ax
+r
